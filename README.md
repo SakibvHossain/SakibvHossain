@@ -41,6 +41,11 @@
 ### GitHub Stats:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SakibvHossain&theme=material-palenight&show_icons=true" alt="rudra016"/></p>
 
+### Stricks
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibvhossain&" alt="sakibvhossain" /></p>
+
+### Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibvhossain" alt="sakibvhossain" /></a> </p>
 <!--
 **SakibvHossain/SakibvHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
