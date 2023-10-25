@@ -1,5 +1,4 @@
 <h1>Nice to see you</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SakibvHossain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SakibvHossain" /> </p>
 
 <p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+a+recent+graduate+with+a+passion+for+building+Enterprise+Web+Application"> </p>
 
