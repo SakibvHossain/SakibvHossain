@@ -37,7 +37,8 @@ I’m Sakib, a recent graduate with a passion for building Enterprise Web applic
 ### Find me on
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
 
-
+### GitHub Stats:
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SakibvHossain&theme=material-palenight&show_icons=true" alt="rudra016"/></p>
 
 <!--
 **SakibvHossain/SakibvHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
