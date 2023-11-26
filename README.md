@@ -1,5 +1,7 @@
 <h1>Nice to see you</h1>
 
+![Java](https://visitcount.itsvg.in/api/test?icon=0&color=0)
+
 <p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+a+recent+graduate+with+a+passion+for+building+Enterprise+Web+Application"> </p>
 
 
