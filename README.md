@@ -40,6 +40,8 @@
 ### GitHub Stats:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SakibvHossain&theme=nord" alt="rudra016"/></p>
 
+### Typing Speed
+<a href="https://data.typeracer.com/pit/profile?user=sakibx21&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sakibx21" border="0" alt="TypeRacer.com scorecard for user sakibx21"/></a>
 <!--**### Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibvhossain&theme=nord" alt="sakibvhossain" /></p>
 
