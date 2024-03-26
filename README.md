@@ -14,12 +14,10 @@
 ![H2](https://img.shields.io/badge/H2-%230ABF53?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-%2303234B?style=flat&logo=selenium)
 ![Junit5](https://img.shields.io/badge/Junit5-%235B0BB5?style=flat&logo=junit5)
-![GraphQL](https://img.shields.io/badge/Graphql-%23E10098?style=flat&logo=graphql)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C?style=flat&logo=hibernate)
 ![Android](https://img.shields.io/badge/Android-%23191A1B?style=flat&logo=android)
 ![Swagger](https://img.shields.io/badge/Swagger-%234A154B?style=flat&logo=swagger)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000?style=flat&logo=splunk)
-![AWS](https://img.shields.io/badge/AWS-%23000000?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-%232C3454?style=docker&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23000000?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-%23FEFEFE?style=flat&logo=git)
@@ -33,7 +31,7 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-%23485A62?style=flat&logo=codeforces&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2F_X_x_Sakib_x_X_)
 
 ### Detail Information about me
-![Codeforces](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&link=https%3A%2F%2Fsakibvhossain.000webhostapp.com%2F)
+![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&link=https%3A%2F%2Fsakibvhossain.000webhostapp.com%2F)
 
 ### Find me on
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
