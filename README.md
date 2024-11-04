@@ -1,6 +1,6 @@
 <h1>Nice to see you</h1>
 
-<p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+a+recent+graduate+with+a+passion+for+building+Enterprise+Web+Application"> </p>
+<p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+a+passionate+developer+for+building+REST+and+Mobile+Application"> </p>
 
 
 <!-- ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966) 
@@ -11,15 +11,17 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23000000?style=flat&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%230D1129?style=flat&logo=springsecurity)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=flat&logo=thymeleaf)
+![Flutter](https://img.shields.io/badge/Flutter-%230D1129?style=flat&logo=flutter)
 ![H2](https://img.shields.io/badge/H2-%230ABF53?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-%2303234B?style=flat&logo=selenium)
-![Junit5](https://img.shields.io/badge/Junit5-%235B0BB5?style=flat&logo=junit5)
+![Junit5](https://img.shields.io/badge/Junit5-%23FEFEFE?style=flat&logo=junit5)
+![Dart](https://img.shields.io/badge/Dart-%230D1129?style=flat&logo=dart)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C?style=flat&logo=hibernate)
 ![Android](https://img.shields.io/badge/Android-%23191A1B?style=flat&logo=android)
 ![Swagger](https://img.shields.io/badge/Swagger-%234A154B?style=flat&logo=swagger)
-![Splunk](https://img.shields.io/badge/Splunk-%23000000?style=flat&logo=splunk)
+![JWT](https://img.shields.io/badge/Firebase-%2303234B?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-%232C3454?style=docker&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23000000?style=flat&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/Jenkins-%230D1129?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-%23FEFEFE?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-%2320336B?style=flat&logo=postman)
 
