@@ -39,7 +39,8 @@
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
 
 ### GitHub Stats:
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SakibvHossain&theme=nord" alt="rudra016"/></p>
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sakibvhossain&show_icons=true&theme=nord" />
+
 
 ### Typing Speed
 <a href="https://data.typeracer.com/pit/profile?user=sakibx21&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sakibx21" border="0" alt="TypeRacer.com scorecard for user sakibx21"/></a>
