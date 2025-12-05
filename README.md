@@ -39,7 +39,9 @@
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
 
 ### GitHub Stats:
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sakibvhossain&show_icons=true&theme=nord" />
+<a href="https://sakibxhossain.infinityfree.me/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat" alt="Portfolio">
+</a>
 
 
 ### Typing Speed
