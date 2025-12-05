@@ -33,15 +33,16 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-%23485A62?style=flat&logo=codeforces&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2F_X_x_Sakib_x_X_)
 
 ### Detail Information about me
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat)](https://sakibxhossain.infinityfree.me/)
+<a href="https://sakibxhossain.infinityfree.me/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat" alt="Portfolio">
+</a>
 
 ### Find me on
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
 
-### GitHub Stats:
-<a href="https://sakibxhossain.infinityfree.me/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat" alt="Portfolio">
-</a>
+### GitHub Stats
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=rudra016&show_icons=true&theme=nord" />
+
 
 
 ### Typing Speed
