@@ -1,6 +1,11 @@
 <h1>Nice to see you</h1>
 
-<p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0096FF&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+passionate+for+building+REST+and+Mobile+Application"> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Passionate+Software+Engineer+building+Backend+%26+Mobile+Apps+%7C+Skilled+in+DevOps+%26+Cloud">
+</p>
+
+
+
 
 
 <!-- ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966) 
@@ -41,7 +46,13 @@
 ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
 
 ### GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibvhossain&theme=nord_bright" />
+
+
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=rudra016&show_icons=true&theme=nord" />
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibvhossain&theme=nord_bright" />
 
 
 
