@@ -1,79 +1,90 @@
-<h1>Nice to see you</h1>
+<h1 align="center">Nice to see you 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Passionate+Software+Engineer+building+Backend+%26+Mobile+Apps+%7C+Skilled+in+DevOps+%26+Cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Cloud+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD+%7C+Infrastructure+as+Code">
 </p>
 
+---
 
+### 👨‍💻 About Me
+I am a **Cloud & DevOps Engineer** passionate about building **scalable, automated, and reliable infrastructure**.  
+I focus on **cloud platforms, container orchestration, CI/CD pipelines, and infrastructure automation**.
 
+---
 
+### 🛠️ DevOps & Cloud Skills
 
-<!-- ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966) 
--->
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat)
+![GCP](https://img.shields.io/badge/GCP-Cloud-lightblue?style=flat)
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> Skills
-![Java](https://img.shields.io/badge/Java-%23A100FF?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23000000?style=flat&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%230D1129?style=flat&logo=springsecurity)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=flat&logo=thymeleaf)
-![Flutter](https://img.shields.io/badge/Flutter-%230D1129?style=flat&logo=flutter)
-![H2](https://img.shields.io/badge/H2-%230ABF53?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-%2303234B?style=flat&logo=selenium)
-![Junit5](https://img.shields.io/badge/Junit5-%23FEFEFE?style=flat&logo=junit5)
-![Dart](https://img.shields.io/badge/Dart-%230D1129?style=flat&logo=dart)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C?style=flat&logo=hibernate)
-![Android](https://img.shields.io/badge/Android-%23191A1B?style=flat&logo=android)
-![Swagger](https://img.shields.io/badge/Swagger-%234A154B?style=flat&logo=swagger)
-![JWT](https://img.shields.io/badge/Firebase-%2303234B?style=flat&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-%232C3454?style=docker&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-%230D1129?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-%23FEFEFE?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/Postman-%2320336B?style=flat&logo=postman)
+#### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=flat)
+![Helm](https://img.shields.io/badge/Helm-Package_Manager-purple?style=flat)
 
-### My Activities
-![Hacker Rank](https://img.shields.io/badge/Hacker%20Rank-%232C3454?style=flat&logo=hackerrank&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2FX_x_Sakib_x_X)
-![LeetCode](https://img.shields.io/badge/Leetcode-%23000000?style=flat&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fxsakib964%2F)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23005571?style=flat&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F17184390%2Fsakib-x-hossain)
-![Codechef](https://img.shields.io/badge/Codechef-%235B4638?style=flat&logo=codechef&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fsakib_x_hossin)
-![Codeforces](https://img.shields.io/badge/Codeforces-%23485A62?style=flat&logo=codeforces&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2F_X_x_Sakib_x_X_)
+#### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-IaC-orange?style=flat)
 
-### Detail Information about me
+#### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?style=flat)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-CI/CD-orange?style=flat)
+
+#### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-yellow?style=flat)
+![ELK](https://img.shields.io/badge/ELK-Logging-green?style=flat)
+
+#### 🔐 DevSecOps
+![Vault](https://img.shields.io/badge/Vault-Secrets-black?style=flat)
+![Trivy](https://img.shields.io/badge/Trivy-Security-darkgreen?style=flat)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code_Quality-blue?style=flat)
+
+#### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-OS-yellowgreen?style=flat)
+![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey?style=flat)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=flat)
+
+---
+
+### 🚀 What I Do
+- Design **scalable cloud architectures**
+- Automate infrastructure using **Terraform & Ansible**
+- Build **CI/CD pipelines**
+- Deploy & manage **Kubernetes clusters**
+- Implement **monitoring, logging, and security**
+- Optimize **cost and performance**
+
+---
+
+### 🔍 My Activities
+![HackerRank](https://img.shields.io/badge/HackerRank-Coding-darkgreen?style=flat)
+![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-black?style=flat)
+![StackOverflow](https://img.shields.io/badge/StackOverflow-QA-orange?style=flat)
+
+---
+
+### 🌐 Portfolio
 <a href="https://sakibxhossain.infinityfree.me/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat" />
 </a>
 
-### Find me on
-![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakib~%2F)
+---
 
-### GitHub Stats
+### 🤝 Connect With Me
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat)
+
+---
+
+### 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibvhossain&theme=nord_bright" />
 
+---
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sakibvhossain&show_icons=true&theme=nord" />
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibvhossain&theme=nord_bright" />
-
-
-
-### Typing Speed
-<a href="https://data.typeracer.com/pit/profile?user=sakibx21&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sakibx21" border="0" alt="TypeRacer.com scorecard for user sakibx21"/></a>
-<!--**### Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibvhossain&theme=nord" alt="sakibvhossain" /></p>
-
-### Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibvhossain&theme=onestar" alt="sakibvhossain" /></a> </p>**
-<!--
-**SakibvHossain/SakibvHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Typing Speed
+<a href="https://data.typeracer.com/pit/profile?user=sakibx21" target="_blank">
+  <img src="https://data.typeracer.com/misc/badge?user=sakibx21" />
+</a>
